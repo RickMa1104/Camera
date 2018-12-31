@@ -1,0 +1,13 @@
+﻿  StdAfx.cpp
+c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Capture2Dlg.cpp
+c:\users\clark\desktop\file\vs\usb 摄像头\capture2dlg.cpp(251): warning C4129: “N”: 不可识别的字符转义序列
+  Capture2.cpp
+c:\users\clark\desktop\file\vs\usb 摄像头\capture2.cpp(52): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afxwin.h(5178) : 参见“CWinApp::Enable3dControls”的声明
+  正在生成代码...
+LINK : warning LNK4076: 增量状态文件“.\Debug\Capture2.ilk”无效(将删除)；正以非增量方式链接
+Capture2.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  Capture2.vcxproj -> C:\Users\clark\Desktop\file\VS\USB 摄像头\.\Debug\Capture2.exe
